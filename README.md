@@ -103,8 +103,7 @@ Copy code
 
 ## 🌐 Live Demo
 
-🔗 **Deployed URL:** _Coming Soon_  
-(Hosted using Vercel / Render / Netlify)
+🔗 **Deployed URL:** https://flora-vision-1kw8.vercel.app/
 
 ---
 
