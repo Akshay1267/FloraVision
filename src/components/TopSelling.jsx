@@ -4,7 +4,7 @@ import cactus from "../assets/cactus.png";
 import swiss from "../assets/swiss.png";
 import sansevieria from "../assets/sansevieria.png";
 import agave from "../assets/agave.png";
-import borderTop from "../assets/bordertop.png";
+import borderTop from "../assets/borderTop.png";
 
 export default function TopSellingPlants() {
   return (
