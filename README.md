@@ -1,16 +1,130 @@
-# React + Vite
+# 🌿 Product Listing Page — Frontend Internship Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect **Product Listing Page UI** built for the **SoftDef Frontend Developer Internship Test**.  
+This project is fully recreated from the provided **Figma design**, using **React + Tailwind CSS**, following clean, reusable components and complete responsiveness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Test Overview
 
-## React Compiler
+This project was created as part of:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend Developer Internship Test — SoftDef**  
+**Task:** Recreate the Figma Product Listing Page exactly (pixel-perfect, responsive, and component-based).  
+**Strict Rule:** No AI-generated code allowed.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎨 Figma Design
+
+🔗 **Figma URL:**  
+https://www.figma.com/design/U0mtBXWgFim69YDj4pjY8f/Front-end-test?node-id=0-1
+
+---
+
+## 🚀 Tech Stack Used
+
+- ⚛️ **React.js (Vite)** — Component-based UI  
+- 🎨 **Tailwind CSS** — Styling & Responsive Design  
+- 🧩 **JavaScript (ES6+)**  
+- 🌐 **Git & GitHub** — Version Control  
+- ☁️ **Vercel / Render / Netlify** — Deployment
+
+---
+
+## 📂 Project Structure
+
+src/
+├── assets/
+├── components/
+│ ├── Navbar.jsx
+│ ├── HeroBanner.jsx
+│ ├── PlantCard.jsx
+│ ├── TrendyPlants.jsx
+│ ├── TopSellingPlants.jsx
+│ ├── CustomerReview.jsx
+│ ├── OurBesto2.jsx
+│ └── Footer.jsx
+├── App.jsx
+├── App.css
+├── index.css
+└── main.jsx
+
+yaml
+Copy code
+
+Each Figma section is broken into a reusable component following clean UI patterns.
+
+---
+
+## 🧪 Features
+
+✔ Pixel-perfect match to Figma  
+✔ Fully responsive (Desktop → Tablet → Mobile)  
+✔ Clean & reusable components  
+✔ Smooth hover & transitions  
+✔ Semantic HTML and alt text  
+✔ Optimized image usage  
+✔ Production-ready folder structure  
+
+---
+
+## 🛠️ Setup & Run Instructions
+
+### 1️⃣ Clone the repository
+
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+
+shell
+Copy code
+
+### 2️⃣ Install dependencies
+
+npm install
+
+shell
+Copy code
+
+### 3️⃣ Start development server
+
+npm run dev
+
+shell
+Copy code
+
+### 4️⃣ Build for production
+
+npm run build
+
+yaml
+Copy code
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Deployed URL:** _Coming Soon_  
+(Hosted using Vercel / Render / Netlify)
+
+---
+
+## 📬 Submission Requirements (As per test)
+
+- Public GitHub Repository  
+- Live Deployment URL  
+- Pixel-perfect match with Figma  
+- Responsive across all devices  
+- No AI-generated code  
+
+---
+
+## 🏢 About the Company
+
+**SoftDef** is a technology company focused on hospitality products — hotel management, club management, influencer-driven travel booking, and AI-powered tools.
+
+---
+
+## 🧑‍💻 Developer
+
+**Akshay Jain**  
+Frontend Developer | React | Tailwind | JavaScript  
