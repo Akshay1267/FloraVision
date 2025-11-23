@@ -73,7 +73,7 @@ Each Figma section is broken into a reusable component following clean UI patter
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Akshay1267/FloraVision
 
 shell
 Copy code
