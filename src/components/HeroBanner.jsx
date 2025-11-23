@@ -1,6 +1,6 @@
 import plantain from "../assets/plantain.jpg";
 import besto2plant from "../assets/besto2plant.png";
-import borderTop from "../assets/bordertop.png";
+import borderTop from "../assets/borderTop.png";
 import heroBlur from "../assets/heroBlur.png";
 
 export default function HeroBanner() {
